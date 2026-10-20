@@ -13,13 +13,12 @@ A Python project that analyzes student marks by calculating the total, average, 
 ## 🛠️ Technologies Used
 
 - Python 3
-- Jupyter Notebook (optional)
 
 ## 📂 Project Structure
 
 ```
 Student-Marks-Analyzer/
-│── student_marks_analyzer.py
+│── DAY1.ipynb
 │── README.md
 ```
 
@@ -28,19 +27,19 @@ Student-Marks-Analyzer/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Student-Marks-Analyzer.git
+git clone https://github.com/satya77713/Student-Marks-Analysis.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd Student-Marks-Analyzer
+cd Student-Marks-Analysis
 ```
 
 3. Run the program:
 
 ```bash
-python student_marks_analyzer.py
+python DAY1.ipynb
 ```
 
 ## 💻 Sample Output
@@ -93,9 +92,9 @@ Through this project, I learned how to:
 
 ## 👨‍💻 Author
 
-**Aravind N**
+**Satya Aravind **
 
-GitHub: https://github.com/n-satyaaravind
+GitHub: https://github.com/satya77713
 
 ---
 ⭐ If you found this project helpful, consider giving it a star!
